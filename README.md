@@ -1,8 +1,8 @@
-This is a project i completed during my studies at the University of California, Irvine (UCI).
-The goal was to predict absenteeism in the workplace, given characteristic and life style details of employees.
-3 types of models were employed to observe performance across all and determine which one is optimal:
-    - multiple linear regression
-    - Lasso regression
-    - Decision tree
+<h1 align="left" style="font-size: 2.5em;">Absenteeism in the Workplace</h1>
 
-    
+This project explores predicting workplace absenteeism based on various employee attributes and lifestyle factors. The analysis uses three regression models—Multiple Linear Regression, Lasso Regression, and Decision Tree Regression—to determine the best predictive approach. Each model provides unique insights:
+
+Multiple Linear Regression establishes a baseline prediction.
+Lasso Regression focuses on refining variable selection to prevent overfitting.
+Decision Tree Regression captures complex relationships within the data.
+The project compares model performances, offering insights into how both personal and work-related factors influence absenteeism.
